@@ -1,0 +1,17 @@
+{
+  "name": "clean-javascript-webpack",
+  "version": "1.0.0",
+  "description": "Package for a clean js webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "webpack --mode development"
+  },
+  "author": "Florent GALLOU",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
